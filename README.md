@@ -24,7 +24,7 @@ OpenWeatherMap API — Source of live weather data
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Payalsahu09/Weather.git
 cd weather-app
 
 2️⃣ Open in your browser
